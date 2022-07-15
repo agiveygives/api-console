@@ -30,7 +30,7 @@
     "sapper": "^0.27.0",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.0",
-    "svelte": "^3.0.0",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.9.0",
     "webpack": "^4.7.0"
   }
